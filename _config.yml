@@ -10,8 +10,8 @@ title: "Rosa Goetz's Blog"
 email: rogoetz@ad.unc.edu
 description: This is a test site for INLS 161
 author:Rosa Goetz
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://rogoetz.github.io" # the base hostname & protocol for your site
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://rogoetz.github.io/" # the base hostname & protocol for your site
 # twitter_username: hemang_kumar
 github_username:  rogoetz
 paginate: 5
