@@ -12,7 +12,7 @@ description: This is a test site for INLS 161
 author: Rosa Goetz
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rogoetz.github.io/" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
+twitter_username:  
 github_username:  rogoetz
 paginate: 5
 
