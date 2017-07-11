@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: Academic
-permalink: /academic/
+layout: page
+title: Academics
+permalink: /academics/
 category: "academics"
 ---
 
