@@ -23,3 +23,4 @@ More casually, my hobbies are
 * travel 
 ...and numerous others. 
 
+This blog may or may not touch on any of these. 
