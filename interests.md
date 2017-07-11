@@ -2,7 +2,6 @@
 layout: page
 title: Interests
 permalink: /interests/
-category: "interests"
 ---
 
 ## Interests and Hobbies 

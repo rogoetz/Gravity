@@ -2,7 +2,6 @@
 layout: page
 title: Academics
 permalink: /academics/
-category: "academics"
 ---
 
 ## Academics 
