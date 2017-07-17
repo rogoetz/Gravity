@@ -38,7 +38,7 @@ After that, it was smooth sailing--I even got a bit fancy and added some echo li
 
 [Here is my completed script:](https://github.com/rogoetz/rogoetz-convert-documents/blob/master/rogoetz-convert-docs.sh)
 
-[Here is how it looked when it ran:](https://codeanywhere.com/api/ca6/file/open/?token=b6339ad0cb47a516ebc86f31f6024d1879c73eef54e8ca0b&connectionId=1237759&path=rogoetz-convert-documents/Screen%20Shot%202017-07-16%20at%2011.04.38%20AM.png&encoding=UTF-8&id=adaae16c42118dcec30ba872ec2a329b&)
+[Here is how it looked when it ran:](https://github.com/rogoetz/rogoetz-convert-documents/blob/master/Screen%20Shot%202017-07-16%20at%2011.04.38%20AM.png?raw=true)
 
 It did indeed produce all of the requisite files: 
 [HTML](101-things-about-me.html)
